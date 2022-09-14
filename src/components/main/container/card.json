@@ -1,0 +1,268 @@
+[
+  [
+    {
+      "title": "TikTok Ads (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Pro tier is for monthly ad spends ranging from $600 - $1,200. This plan is ideal for smaller businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "tiktok",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "TikTok Ads (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Plus tier is for monthly ad spends ranging from $1,200 - $2,000. This plan is ideal for small to medium sized businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "tiktok",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "TikTok Ads (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Premium tier is for monthly ad spends ranging from $2,000 - $3,000. This plan is ideal for medium sized businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "tiktok",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "TikTok Ads (Platinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Platinum tier is for monthly ad spends ranging from $3,000+. This plan is ideal for large businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "tiktok",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ],
+  [
+    {
+      "title": "Social Posts (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for businesses looking to increase their branding and online presence with 4 posts to 1 social media channel every month. With this plan, your brand will be legitimized and appear active with regular posts, letting people know that the business is always operational.",
+      "src": "social",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Social Posts (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for businesses looking to increase their branding and online presence with 4 posts to 1 social media channel every month. With this plan, your brand will be legitimized and appear active with regular posts, letting people know that the business is always operational.",
+      "src": "social",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Social Posts (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for businesses looking to increase their branding and online presence with 4 posts to 1 social media channel every month. With this plan, your brand will be legitimized and appear active with regular posts, letting people know that the business is always operational.",
+      "src": "social",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Social Posts (Plutinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for businesses looking to increase their branding and online presence with 4 posts to 1 social media channel every month. With this plan, your brand will be legitimized and appear active with regular posts, letting people know that the business is always operational.",
+      "src": "social",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ],
+  [
+    {
+      "title": "SEO (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for a 1-10 page website and small sized businesses in a local market. With this plan, you can increase keyword rankings in the local search results for your geographic area or boost organic search results at the national, and even global level.",
+      "src": "seo",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "SEO (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for a 11-20 page website and small to medium sized businesses in a local or state market. With this plan, you can increase keyword rankings in the local search results for your geographic area or boost organic search results at the national, and even global level.",
+      "src": "seo",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "SEO (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for a 21-30 page website and medium sized businesses in a local to national market. With this plan, you can increase keyword rankings in the local search results for your geographic area or boost organic search results at the national, and even global level.",
+      "src": "seo",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "SEO (Platinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan is ideal for a 31+ page website and large sized businesses in a local to global market. With this plan, you can increase keyword rankings in the local search results for your geographic area or boost organic search results at the national, and even global level.",
+      "src": "seo",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ],
+  [
+    {
+      "title": "Google Ads (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Pro tier is for monthly ad spends ranging from $500 - $2,000. This plan is ideal for smaller businesses looking to generate leads and/or sales, utilizing Google and/or YouTube Ads.",
+      "src": "google",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Google Ads (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Plus tier is for monthly ad spends ranging from $2,000 - $4,000. This plan is ideal for small to medium sized businesses looking to generate leads and/or sales, utilizing Google and/or YouTube Ads.",
+      "src": "google",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Google Ads (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Premium tier is for monthly ad spends ranging from $4,000 - $8,000. This plan is ideal for medium sized businesses looking to generate leads and/or sales, utilizing Google and/or YouTube Ads.",
+      "src": "google",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Google Ads (Platinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Platinum tier is for monthly ad spends ranging from $8,000+. This plan is ideal for large businesses looking to generate leads and/or sales, utilizing Google and/or YouTube Ads.",
+      "src": "google",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ],
+  [
+    {
+      "title": "Facebook Ads (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Pro tier is for monthly ad spends ranging from $500 - $2,000. This plan is ideal for smaller businesses looking to generate leads and/or sales, utilizing Facebook and/or Instagram Ads.",
+      "src": "facebook",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Facebook Ads (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Plus tier is for monthly ad spends ranging from $2,000 - $4,000. This plan is ideal for small to medium sized businesses looking to generate leads and/or sales, utilizing Facebook and/or Instagram Ads.",
+      "src": "facebook",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Facebook Ads (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Premium tier is for monthly ad spends ranging from $2,000 - $3,000. This plan is ideal for medium sized businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "facebook",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Facebook Ads (Platinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Platinum tier is for monthly ad spends ranging from $8,000+. This plan is ideal for large businesses looking to generate leads and/or sales, utilizing Facebook and/or Instagram Ads.",
+      "src": "facebook",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ],
+  [
+    {
+      "title": "Content (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan includes 1 blog article per month that is 500 words each. The blogs will be written out by one of our content experts and checked for quality by another expert. All blogs written by our team are 100% original and can help rank your clients' websites pages higher and attract more visitors.",
+      "src": "content",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Content (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan includes 2 blog articles per month that are 500 words each. The blogs will be written out by one of our content experts and checked for quality by another expert. All blogs written by our team are 100% original and can help rank your clients' websites pages higher and attract more visitors.",
+      "src": "content",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Content (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan includes 3 blog articles per month that are 500 words each. The blogs will be written out by one of our content experts and checked for quality by another expert. All blogs written by our team are 100% original and can help rank your clients' websites pages higher and attract more visitors.",
+      "src": "content",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Content (Platinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "This plan includes 4 blog articles per month that are 500 words each. The blogs will be written out by one of our content experts and checked for quality by another expert. All blogs written by our team are 100% original and can help rank your clients' websites pages higher and attract more visitors.",
+      "src": "content",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ],
+  [
+    {
+      "title": "Listings (Pro)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Pro tier is for monthly ad spends ranging from $600 - $1,200. This plan is ideal for smaller businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "listing",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Listings (Plus)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Plus tier is for monthly ad spends ranging from $1,200 - $2,000. This plan is ideal for small to medium sized businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "listing",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Listings (Premium)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Premium tier is for monthly ad spends ranging from $2,000 - $3,000. This plan is ideal for medium sized businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "listing",
+      "buy": "https://",
+      "more": "https://"
+    },
+    {
+      "title": "Listings (Platinum)",
+      "subscription": "Monthly Subscription",
+      "price": 49,
+      "des": "The Platinum tier is for monthly ad spends ranging from $3,000+. This plan is ideal for large businesses looking to generate leads and/or sales, utilizing TikTok Ads.",
+      "src": "listing",
+      "buy": "https://",
+      "more": "https://"
+    }
+  ]
+]

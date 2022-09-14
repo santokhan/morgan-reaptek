@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Tiktok",
+    "des": "Monthly Subcription",
+    "src": "tiktok",
+    "price": 59
+  },
+  {
+    "title": "Social Posts",
+    "des": "Monthly Subcription",
+    "src": "social",
+    "price": 59
+  },
+  {
+    "title": "SEO",
+    "des": "Monthly Subcription",
+    "src": "seo",
+    "price": 59
+  },
+  {
+    "title": "Google Ads",
+    "des": "Monthly Subcription",
+    "src": "google",
+    "price": 59
+  },
+  {
+    "title": "Facebook Ads",
+    "des": "Monthly Subcription",
+    "src": "facebook",
+    "price": 59
+  },
+  {
+    "title": "Content",
+    "des": "Monthly Subcription",
+    "src": "content",
+    "price": 59
+  },
+  {
+    "title": "Listings",
+    "des": "Monthly Subcription",
+    "src": "listing",
+    "price": 59
+  }
+]
