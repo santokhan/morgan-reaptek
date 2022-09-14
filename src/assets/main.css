@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .app-header {
+        height: 48px
+    }
+
+    @media (min-width:768px) {
+        .app-header {
+            height: 64px
+        }
+    }
+}
+
+.info {
+    height: 388px;
+}
